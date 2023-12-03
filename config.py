@@ -13,20 +13,20 @@ API_HASH = getenv("API_HASH","b463bedd791aa733ae2297e6520302fe")
 BOT_TOKEN = getenv("BOT_TOKEN","")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://ambot:ambot@ambot.onafiyb.mongodb.net/?retryWrites=true&w=majority")
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID","-1001840241140"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Sophia Music")
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID","-1002056907061"))
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "🍹𝆺𝅥⃝🌸 ‌⃪‌ ᷟ🦋𝐌𝐮𝐬𝐢𝐜 ᥫ᭡𓆩𝐏𝐥𝐚𝐲𝐞𝐫𓆪🦋☕︎")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "6204761408").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "6898413162").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/AbhiModszYT/AMMusic")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/badmunda011/AMMusic")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AmBotYT")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/AM_YTSUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ABT_BAD")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/THE_DRAMA_CLUB_01")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
