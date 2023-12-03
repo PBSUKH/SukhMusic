@@ -99,7 +99,7 @@
       },
        "UPSTREAM_REPO": {
         "description": "Your Fork Repo link ",
-        "value": "https://github.com/AbhiModszYT/AMMusic",
+        "value": "https://github.com/badmunda011/AMMusic",
         "required": false
       },
       "LOG_GROUP_ID": {
