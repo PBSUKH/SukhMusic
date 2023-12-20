@@ -99,7 +99,7 @@
       },
        "UPSTREAM_REPO": {
         "description": "Your Fork Repo link ",
-        "value": "https://github.com/badmunda011/AMMusic",
+        "value": "https://github.com/badmunda98/BADOP",
         "required": false
       },
       "LOG_GROUP_ID": {
